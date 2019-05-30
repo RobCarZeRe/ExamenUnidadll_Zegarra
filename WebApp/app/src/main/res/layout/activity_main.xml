@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/web_view">
+
+    <Button
+        android:id="@+id/btn_pasar"
+        android:layout_width="45dp"
+        android:layout_height="26dp"
+        android:layout_x="0dp"
+        android:layout_y="0dp"
+        android:onClick="pasar"
+        android:text="Button"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="261dp" />
+
+
+</WebView>
